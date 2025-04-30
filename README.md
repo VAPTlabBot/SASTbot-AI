@@ -63,7 +63,7 @@ Monitor and manage all repositories from a unified dashboard.
 ## 📅 Schedule a Demo
 
 **Ready to elevate your code quality?**  
-[Schedule a demo](#) and explore how SASTbost AI can improve your development workflow. Let’s start a pilot project tailored to your organization.
+[Schedule a demo](https://vaptlabs.com) and explore how SASTbost AI can improve your development workflow. Let’s start a pilot project tailored to your organization.
 
 ---
 
